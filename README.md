@@ -1,5 +1,11 @@
 # domain-value-checker
 
+## price to have a similar domain
+
+
+https://cfdata.lol/registrar/
+
+
 
 Building a small SaaS (Software as a Service) product centered around domain age involves creating a service that leverages domain age data to provide valuable insights and tools to businesses, domain investors, and SEO professionals. Below is a step-by-step guide to conceptualizing, developing, and launching a SaaS product based on domain age.
 
