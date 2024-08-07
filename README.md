@@ -2,15 +2,56 @@
 
 we are trying to answer you:
 
-* domain age 
+* domain age
+
+  Security Risks
+Sites that are not confirmed to be malicious but have a higher likelihood of containing security threats.
+
+New Domains
+
+Newly Seen Domains
+
+Parked & For Sale Domains
+
 * is domain shadow banned or punished from google
+
+  google index urls dramatically dropdown
+  
 * is  domain blocked by popular email provider
 * is domain spam or in popular Block Lists
+* where does visitor comes from /Visitor location
+* is domain contain unexpected threats/Security threats
+Sites that contain security threats like malware, phishing, cryptomining and other security threats.
 
-* is domain rank changes dramatically
+Anonymizer
+
+Brand Embedding
+
+Command and Control & Botnet
+
+Cryptomining
+
+DGA Domains
+
+DNS Tunneling
+
+Malware
+
+Phishing
+
+Private IP Address
+
+Spam
+
+Spyware
+* is domain rank rising dramatically
 * is domain product price worth tracking
 * download domain urls
-* tech 
+
+* tech analysis
+
+
+
 
 ## price to have a similar domain
 
