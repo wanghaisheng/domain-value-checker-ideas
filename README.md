@@ -1,10 +1,16 @@
 # domain-value-checker
 
+we are trying to answer you:
+
 * domain age 
 * is domain shadow banned or punished from google
+* is  domain blocked by popular email provider
+* is domain spam or in popular Block Lists
+
 * is domain rank changes dramatically
 * is domain product price worth tracking
-* download domain urls 
+* download domain urls
+* tech 
 
 ## price to have a similar domain
 
