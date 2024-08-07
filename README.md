@@ -1,5 +1,10 @@
 # domain-value-checker
 
+* domain age 
+* is domain shadow banned or punished from google
+* is domain rank changes dramatically
+* is domain product price worth tracking
+
 ## price to have a similar domain
 
 
