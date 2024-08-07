@@ -4,6 +4,7 @@
 * is domain shadow banned or punished from google
 * is domain rank changes dramatically
 * is domain product price worth tracking
+* download domain urls 
 
 ## price to have a similar domain
 
